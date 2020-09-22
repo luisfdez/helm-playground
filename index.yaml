@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  squid:
+  - apiVersion: v1
+    created: "2020-09-22T22:46:49.138497581+02:00"
+    description: A Helm chart to setup a squid cache
+    digest: 2de900a45930aa1cdb9fff6861b03454c3406ad7f7aa8391a4d5a785ffe825a7
+    name: squid
+    urls:
+    - squid-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-22T22:46:49.13671287+02:00"
