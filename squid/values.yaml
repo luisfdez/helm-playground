@@ -6,6 +6,7 @@ image:
 service:
   type: ClusterIP
   port: 3128
+  annotations: null
 
 ingress:
   enabled: true
