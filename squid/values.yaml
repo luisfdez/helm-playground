@@ -84,6 +84,8 @@ config:
   - 'http_access allow misc'
   - 'http_access allow stratum_ones'
 
+replicas: 1
+
 resources: {}
 
 nodeSelector: {}
